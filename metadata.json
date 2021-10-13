@@ -1,0 +1,20 @@
+{
+  "name":"Crypto Steve",
+  "description":"A crypto version of me, for me",
+  "image":"ipfs://QmdxTMxwX547gmjLDJYP2sLcV6mhZvgayvPPJ2bciqp5ec",
+  "attributes": [
+    {
+      "trait_type":"Level",
+      "value":"9001"
+    },
+    {
+      "trait_type":"Personality",
+      "value":"2"
+    },
+    {
+      "display_type":"number",
+      "trait_type":"Generation",
+      "value":"1"
+    }
+  ]
+}
